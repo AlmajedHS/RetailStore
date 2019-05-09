@@ -24,5 +24,6 @@ A UML picture and a SonarQube report are attached in the repository.
 
 
 
-
+Assumptions:
+1- If the customer has more than one percentage based discount, I chose the highest discount for him/her.
 
