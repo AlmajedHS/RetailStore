@@ -1,0 +1,39 @@
+
+/Discounts#applyPercentageDiscount(LCustomer;D)DU
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java ()"7*š
+3U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java (¸µ
+U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java (/
+%2double"Customer#getCustomerLoyality()D*
+
+customerCustomer2getCustomerLoyality()*
+1*š
+5U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java (µ²
+U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java (-
+%1boolean"Customer#getAffilateStatus()Z*
+
+customerCustomer2getAffilateStatus()*
+3
+1*š
+7U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java	 	(µ²
+U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java
+ 
+('
+%0boolean"Customer#getEmployeeStatus()Z*
+
+customerCustomer2getEmployeeStatus()*
+5
+1*»
+1U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java ("_
+U
+K/Users/almajedhs/IdeaProjects/RetailStoreFinal/src/main/java/Discounts.java (
+"":
+customerCustomer:
+""B
+	Discounts

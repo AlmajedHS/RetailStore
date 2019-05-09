@@ -20,7 +20,7 @@ By doing the second way, you will see the results of the tests, with each tests 
 
 In order to build the project from the command line, as I mentioned, you will need maven. Go the project directory and run mvn compile. Running mvn clean package
 
-
+A UML picture and a SonarQube report are attached in the repository. 
 
 
 

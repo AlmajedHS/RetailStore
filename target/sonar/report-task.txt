@@ -1,0 +1,7 @@
+organization=almajedhs-github
+projectKey=AlmajedHS_RetailStore
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.24676
+dashboardUrl=https://sonarcloud.io/dashboard?id=AlmajedHS_RetailStore
+ceTaskId=AWqeXHCFcMoWyatDOkR6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWqeXHCFcMoWyatDOkR6
